@@ -1,5 +1,7 @@
 # CC0010J-COUNT-DIGITS
 
+## [See How it works](https://code-code-team.github.io/CC0010J-COUNT-DIGITS/)
+
 ## All the numbers between number1 and number 2 are pushed into an Array in this function
 
 ```bash
